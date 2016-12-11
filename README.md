@@ -1,6 +1,6 @@
-# vue+webpack+yo解决方案
+## vue+webpack+yo解决方案
 
-# 安装
+### 安装
 1. git clone git@github.com:wangjinqing123/vueSolution.git
 2. cd vueSolution
 3. npm install
